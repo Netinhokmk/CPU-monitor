@@ -1,0 +1,31 @@
+<meta>
+    
+    <oop>true</oop>
+
+    <info author = '[HS]Neto' version = '1.0' name = 'Encomenda Exclusiva feita na hyper scripts' description = 'www.hyperscripts.com.br' />
+    
+    <!-- Arquivos -->
+    
+    <script src = 'Hyper_G.lua' type = 'shared' cache = 'false'/>
+    <script src = 'nui/source/Hyper_U.lua' type = 'client' cache = 'false'/>    
+    <script src = 'nui/source/Hyper_C.lua' type = 'client' cache = 'false'/>  
+    <script src = 'nui/source/Hyper_S.lua' type = 'server' />  
+
+    <!-- Fonts-->
+    
+    <file src = 'nui/fonts/roboto-regular.ttf' cache = 'false' />
+    <file src = 'nui/fonts/roboto-bold.ttf' cache = 'false' />
+    <file src = 'nui/fonts/integralcf-medium.otf' cache = 'false' />
+
+    <!-- Interface -->
+
+    <file src = 'nui/interface/card.svg' cache = 'false' />
+    <file src = 'nui/interface/status.svg' cache = 'false' />
+    <file src = 'nui/interface/reset.svg' cache = 'false' />
+    <file src = 'nui/interface/move.svg' cache = 'false' />
+
+    <!-- Versão -->
+
+    <min_mta_version server = '1.5.8-9.20979' ></min_mta_version>
+
+</meta>
