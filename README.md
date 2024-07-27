@@ -3,4 +3,4 @@ Sistema para monitorar o uso dos sistemas no seu servidor tanto **client-side** 
 
 > Comando: **/cpu**
 
-![image](https://imgur.com/a/LIdNIqh.png)
+![image](https://i.imgur.com/IoigFTl.png)
