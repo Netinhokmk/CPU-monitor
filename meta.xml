@@ -2,7 +2,7 @@
     
     <oop>true</oop>
 
-    <info author = '[HS]Neto' version = '1.0' name = 'Encomenda Exclusiva feita na hyper scripts' description = 'www.hyperscripts.com.br' />
+    <info author = '[HS]Neto' version = '1.0' name = 'Sistema de monitoramento de consumo - CPU' description = 'www.hyperscripts.com.br' />
     
     <!-- Arquivos -->
     
@@ -13,16 +13,13 @@
 
     <!-- Fonts-->
     
-    <file src = 'nui/fonts/roboto-regular.ttf' cache = 'false' />
-    <file src = 'nui/fonts/roboto-bold.ttf' cache = 'false' />
-    <file src = 'nui/fonts/integralcf-medium.otf' cache = 'false' />
+    <file src = 'nui/fonts/*.ttf' cache = 'false' />
 
     <!-- Interface -->
 
-    <file src = 'nui/interface/card.svg' cache = 'false' />
-    <file src = 'nui/interface/status.svg' cache = 'false' />
-    <file src = 'nui/interface/reset.svg' cache = 'false' />
-    <file src = 'nui/interface/move.svg' cache = 'false' />
+    <file src = 'nui/**/*.svg' cache = 'false' />
+    <file src = 'nui/**/*.png' cache = 'false' />
+
 
     <!-- Versão -->
 
